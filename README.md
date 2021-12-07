@@ -1,5 +1,3 @@
-# laravel-crud
-Basic CRUD Operation with Laravel.
 Installation.
 Just clone the project to anywhere in your computer. Run composer install
 Then npm install
